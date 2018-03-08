@@ -1,0 +1,7 @@
+“Create a new file and add at least 3 lines to it.” This can be any file type.
+“Create a second file inside of a new directory and modify any existing file”
+“Delete any file”
+“Create a new branch and create a new file with three lines in this branch”
+“Merge this branch to the Master branch. Make another edit to a file”
+“Create a new branch”
+“Delete a file”
